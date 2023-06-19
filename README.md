@@ -14,6 +14,7 @@ This list is being actively expanded, consider to [contribute](#contribute) or s
 - 🇬🇧 [Go 101](https://go101.org/article/101.html) — an up-to-date (unofficial) knowledge base for Go programming self learning
 - 🇬🇧 [Practical Go](https://dave.cheney.net/practical-go) — a collection of real world advice for writing maintainable Go programs by @davecheney
 - 🇬🇧 [High Performance Go](https://dave.cheney.net/high-performance-go) — workshop thats gives the tools you need to diagnose and fix performance problems in your Go applications, by @davecheney
+- 🇷🇺📺 [Самое полное интервью Golang Middle](https://youtu.be/ryJOS-8hmQo) — мок-интервью на позицию Go-разработчика
 
 
 ## Common Backend

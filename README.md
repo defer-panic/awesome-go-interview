@@ -2,10 +2,9 @@
 
 A curated list of resources for preparation to techincal interview in Go.
 
-This list is being actively expanded, consider to [contribute](#contribute) or support.
+This list is being actively expanded, consider to [contribute](https://awesome-go-interview.dev/contributing/) or [support](https://patreon.com/deferpanic).
 
 The list is maintained by [@defer-panic](https://github.com/defer-panic), educational project about software engineering.
-
 
 ## Contents
 
@@ -45,4 +44,4 @@ The list is maintained by [@defer-panic](https://github.com/defer-panic), educat
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://awesome-go-interview.dev/contributing/) first.

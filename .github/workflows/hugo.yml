@@ -48,7 +48,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Get website theme
-        run: git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+        run: git clone https://github.com/adityatelange/hugo-PaperMod themes/papermod --depth=1
       - name: Prepare content for Hugo
         run: ./scripts/prepare-hugo.sh
       - name: Build with Hugo

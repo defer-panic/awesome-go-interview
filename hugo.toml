@@ -1,0 +1,18 @@
+baseURL = 'https://awesome-go-interview.dev'
+languageCode = 'en-us'
+title = 'Awesome Go Interview'
+theme = 'papermod'
+
+[menu]
+main = [
+	{ identifer = 'contributing', name = 'Contribute', url = '/contributing/', weight = 100 },
+	{ identifier = 'code-of-conduct', name = 'Code of Conduct', url = '/code-of-conduct/' },
+	{ identifier = 'support', name = '❤️ Support on Patreon', url = 'https://patreon.com/deferpanic' },
+	{ identifier = 'github', name = 'GitHub', url = 'https://github.com/defer-panic/awesome-go-interview'}
+]
+
+[params]
+socialIcons = [
+	{ name = 'github', title = 'GitHub', url = 'https://github.com/defer-panic/awesome-go-interview' }
+]
+description = 'Collection of resources for preparation to technical interview in Go.'

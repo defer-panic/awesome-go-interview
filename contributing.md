@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
+[Contributor Code of Conduct](https://awesome-go-interview.dev/code-of-conduct/). By participating in this
 project you agree to abide by its terms.
 
 ---
@@ -25,7 +25,7 @@ Open a pull request against the README.md document that adds the repository to t
 Remember to put a period . at the end of the project description;
 - If you are creating a new category, move the projects that apply to the new category, ensuring that the resulting list has at least 3 projects in every category, and that the categories are alphabetized.
 
-Fill out the template in your PR with the links asked for. If you accidentally remove the PR template from the submission, you can find it [here](.github/PULL_REQUEST_TEMPLATE.md).
+Fill out the template in your PR with the links asked for. If you accidentally remove the PR template from the submission, you can find it [here](https://github.com/defer-panic/awesome-go-interview/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
 
 ## Updating your PR

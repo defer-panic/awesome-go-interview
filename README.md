@@ -23,6 +23,7 @@ The list is maintained by [@defer-panic](https://github.com/defer-panic), educat
 - 🇬🇧 [@MatthewJamesBoyle/golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep) — exercise that helps you to find bugs and security issues in Go code
 - 🇬🇧 [@plutov/practice-go](https://github.com/plutov/practice-go) — a collection of Go programming challenges
 - 🇬🇧 [@uber-go/guide](https://github.com/uber-go/guide) — The Uber Go Style Guide
+- 🇬🇧 [@rusnikita/trainer](https://github.com/rusinikita/trainer) — terminal app with Go challenges and learning links 
 - 🇬🇧 [Go 101](https://go101.org/article/101.html) — an up-to-date (unofficial) knowledge base for Go programming self learning
 - 🇬🇧 [Practical Go](https://dave.cheney.net/practical-go) — a collection of real world advice for writing maintainable Go programs by [@davecheney](https://github.com/davecheney)
 - 🇬🇧 [High Performance Go](https://dave.cheney.net/high-performance-go) — workshop thats gives the tools you need to diagnose and fix performance problems in your Go applications, by [@davecheney](https://github.com/davecheney)
